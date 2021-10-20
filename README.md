@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Full Stack Developer.
 - 🌱 I’m currently working on an Open Source project called [Sunbird](https://github.com/Sunbird-Ed/).
 
 
