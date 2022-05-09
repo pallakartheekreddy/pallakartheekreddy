@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on an Open Source project called [Sunbird](https://github.com/Sunbird-Ed/).
+- 🔭 I’m currently working on an Open Source project called [Sunbird](https://github.com/project-sunbird).
+- 😄 Pronouns: He/Him.
 
 
 <!--
