@@ -3,6 +3,12 @@
 - 🔭 I’m currently working on an Open Source project called [Sunbird](https://github.com/project-sunbird).
 - 😄 Pronouns: He/Him.
 
+![Kartheek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pallakartheekreddy&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallakartheekreddy&layout=compact)](https://github.com/pallakartheekreddy/github-readme-stats)
+
+
+
 
 <!--
 **pallakartheekreddy/pallakartheekreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
